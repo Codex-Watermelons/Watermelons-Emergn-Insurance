@@ -1,0 +1,59 @@
+﻿Hello, Welcome! I am your Phone Insurance Assistant App. Please answer the questions with "Yes" or "No" unless otherwise specified. What happened?
+Could you please me more specific? Type the following which may apply: "theft", "loss", "damage", "breakdown", "something else"?
+In case of theft, Has it been more than 48 hours since being stolen?
+If it has been more than 48 hours and not reported then it will not be covered by the insurance.
+Have you reported to the appropriate police authorities? 
+Do you know from where it was stolen? Type the following which may apply: "residence", "vehicle", or "other"?
+In case it was stolen from your vehicle, Was it hidden from the view?
+Were doors and windows closed?
+Were the installed security devices operating?
+In case it was stolen from other place, Was the phone in a locked room, locked cupboard, locker or hotel safe?
+Was the installed security devices operating?
+Were doors and windows closed?
+Was force, pickpocket or threat of violence used?
+Was it stolen from you or from any third party it was on loan to?
+What was stolen (phone/accessories/both)? accessories are NOT covered
+In case of loss, Who lost the phone?
+Please note that if you as an owner were not the one who had lost the phone, then the Insurance will not be covered.
+In case of damage, What kind of damage? Type the following which may apply: "internal", "marring", "scratching", "denting"?
+What was damaged (phone/accessories/both)? accessories are NOT covered.
+Did it happen as a result of placing it in any kind of unsafe environment? 
+Did the manufacturer recognise the fault?
+Do you have all the parts of the phone?
+In case of breakdown, can it be turned on?
+Was it caused due to a software virus? (or any other software based malfunction)
+Is the manufacturer’s warranty still active?
+Did the manufacturer recognise the fault?
+Do you have all the parts of the phone?
+You seemed to have pressed something else, Did it happen as a result of such action such as: pressure waves caused by aircraft?
+Ionising radiation or contamination by radioactivity from any nuclear fuel?
+Pollution or contamination?
+Terrorism, war, invasion, acts of foreign enemies, hostilities (whether war be declared or not), civil war, rebellion, revolution, insurrection, military or usurped power, riot or civil commotion, terrorist activity of any kind?
+Is that all?
+Good news, we will replace your phone with a new one!
+Good news, we will fix it!
+we are sorry, but this case is not covered by the insurance.
+Please tell the terms of my insurance?
+What is Accidental damage?
+Accidental damage means the sudden and unforeseen accidental damage to your mobile phone which is not specifically excluded from this insurance policy provided that such damage results in your mobile phone being unable or unsafe to function. 
+What is Accidental loss?
+Accidental loss means the unforeseen loss of your mobile phone by you, resulting in you being permanently deprived of its use.  
+What is beneficiery?
+Beneficiary means the subscribing member of a Group Scheme whose membership of the scheme must have been accepted by the trustees and can be confirmed by the broker. 
+What is Broker?
+Broker means this scheme is arranged by Voyager Insurance Services Ltd, 13-21 High Street, Guildford, Surrey, GU1 3DG. Authorised and regulated by the Financial Conduct Authority under number 305814, and administered by Philip Williams (G Ins) Management Ltd., Registered Office: 35 Walton Road, Stockton Heath, Warrington, Cheshire WA4 6NW.
+How to contact the agent?
+Telephone number 01925 604421. Authorised and regulated by the Financial Conduct Authority under number 827663. They are authorised to administer this policy on behalf of the insurer. 
+What does breakdown mean?
+Breakdown means the actual breaking, burning out or failure of any part of your mobile phone whilst in ordinary use arising from internal electronic, electrical or mechanical defects in the mobile phone causing it to stop functioning and requiring repair before it can resume normal operation.  
+What is IMEI number?
+IMEI number means the international mobile equipment identity number which is the unique identification number that will be used to identify your mobile phone.
+Who is my insurer?
+Insurer/insurers means this insurance is underwritten 100% by AmTrust Europe Limited. Registered in England number 1229676. Registered Office: Market  Square House, St James’s Street, Nottingham, NG1 6FG. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority under number 202189.
+What is the insurance limit?
+Limit of liability means the insurer’s maximum liability for any one claim which shall not exceed the maximum repair or replacement value of your mobile phone (up to a limit of £1,500 inclusive of VAT) at the time of replacement. The insurer’s maximum total liability to you during any rolling period of 12 months from the commencement date of this insurance shall not exceed £1,500 including VAT. Upon acceptance of a claim, the insurer may at its discretion repair or replace your mobile phone. Replacement may be with a refurbished unit or a functionally equivalent product. If the claims administrator replaces your mobile phone, your original item becomes the insurer’s property and the replacement mobile phone is your property, with coverage for that item continuing for the remaining period of insurance. The maximumliability limit includes cover of up to £750 including VAT for unauthorised data usage for a period of up to 24 hour directly following a valid theft or accidental loss claim.
+What is the period of my insurance?
+Period of insurance means the insurance commences on the same date as specified in your Group Scheme benefits policy schedule for periods of one month upon receipt of your monthly premium. The monthly premium will be collected by the broker by Direct Debit. Please refer to your benefits booklet for details of automatic termination of cover.
+What is a proof?
+Proof of phone ownership means that in the event of a claim the claims administrator will request evidence that the mobile phone is solely and currently used by you and that you can support ownership with a proof of purchase or similar document. Where the purchase receipt is not available we will consider your mobile phone bill if it links your phones IMEI and your details or other similar evidence of current phone usage supporting your ownership.
+  
